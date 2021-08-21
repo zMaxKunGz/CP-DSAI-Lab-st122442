@@ -1,2 +1,2 @@
 # CP-DSAI-Lab-st122442
-Each folder contain my assingment by each lab.
+Each folder contain my assignment by each lab.
